@@ -4,7 +4,7 @@ import Button from "../Button/Button"
 
 export const Card = () => {
 
-    const [value, setValue] = useState(1);
+    const [value, setValue] = useState(0);
 
     function Adicionar() {
         setValue(value + 1)
