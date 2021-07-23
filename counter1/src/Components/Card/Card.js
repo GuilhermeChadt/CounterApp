@@ -41,6 +41,8 @@ export const Card = () => {
                     </Button>
                 </div>
             </div>
+            <hr></hr>
+            <p>Desenvolvido por Guilherme Chadt</p>
         </>
     )
 }
